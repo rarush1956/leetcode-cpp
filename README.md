@@ -4,17 +4,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/rarush1956/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rarush1956/leetcode-cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/rarush1956/leetcode-cpp/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/rarush1956/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rarush1956/leetcode-cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rarush1956/leetcode-cpp/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/rarush1956/leetcode-cpp/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/rarush1956/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/rarush1956/leetcode-cpp/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
