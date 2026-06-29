@@ -30,9 +30,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/rarush1956/leetcode-cpp/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/rarush1956/leetcode-cpp/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rarush1956/leetcode-cpp/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/rarush1956/leetcode-cpp/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/rarush1956/leetcode-cpp/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
